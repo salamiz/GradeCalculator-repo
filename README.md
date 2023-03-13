@@ -1,2 +1,2 @@
 # GradeCalculator-repo
-A Program to Calculate the grades of a user, using the course outline as a point of reference. 
+A Program to Calculate the grades of a user, using the course outline as a point of reference. Inputs for the program will be the marks for each assessment, ordered by type. The assessments include the Pre-Class Activities, In Class Exercises, and Assignments. Once the user finishes their entry, the output will be the user’s grade as a percentage and the user’s percentage for each type of assessment.
